@@ -1,0 +1,4 @@
+name: ClickableLinks
+version: '1.0.0'
+main: xyz.hajsori.clickable_links.ClickableLinks
+api-version: '1.21'
